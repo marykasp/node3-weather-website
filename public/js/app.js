@@ -1,4 +1,4 @@
-console.log('Client side JavaScript file is loaded')
+
 
 // fetch API- browser based API (NOT accessible in NODE JS)
 // kicks off async I/O operation- provide a function to run when data is resolved- fetch data, parse into a JS object, and show data to console
